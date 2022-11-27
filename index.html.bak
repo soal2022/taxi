@@ -15,7 +15,9 @@
     <meta property="og:description" content="0) а) немного о самой плате seeeduino lite
 https://static.chipdip.ru/lib/136/DOC004136012.pdf
 в целом написано неплохо
-от>
+от себя добавлю, что это более дешевый аналог оригинальных ардуино, может в чем то он и лучше, не углублялся. Но из этого возникают некоторые несовместимости, скорее всего устранимые, о них ниже.
+б) немного о том, как выводить данные. https://developer.alexanderklimov.ru/arduino/serialmonitor.php 
+по умолчанию все выводится в виртуальный ком порт, из которого можно данные на лету читать встроенными…">
     <meta property="og:image" content="">
     <meta property="og:site_name" content="Telegraph">
     <meta property="article:published_time" content="2022-08-05T16:36:02+0000">
